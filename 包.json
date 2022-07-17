@@ -1,0 +1,28 @@
+{
+  “名称”：“六边形网站”，
+  “版本”：“ 0.0.0 ”，
+  “私人”：真实，
+  “脚本”：{
+    “构建”：“ hexo 生成”，
+    “清洁”：“六氯清洁”，
+    “部署”：“ hexo部署”，
+    "服务器" : " hexo 服务器"
+  },
+  “六边形”：{
+    “版本”：“ 5.4.0 ”
+  },
+  “依赖”：{
+    “六边形”：“ ^6.2.0 ”，
+    “hexo-deployer-git”：“ ^3.0.0 ”，
+    “hexo-generator-archive”：“ ^1.0.0 ”，
+    “hexo-generator-category”：“ ^1.0.0 ”，
+    “hexo-generator-index”：“ ^2.0.0 ”，
+    “hexo-generator-tag”：“ ^1.0.0 ”，
+    “hexo-renderer-ejs”：“ ^2.0.0 ”，
+    “hexo-renderer-marked”：“ ^5.0.0 ”，
+    “hexo-renderer-stylus”：“ ^2.1.0 ”，
+    “hexo-server”：“ ^3.0.0 ”，
+    “六角主题流体”：“ ^1.9.2 ”，
+    “六角主题风景”：“ ^0.0.3 ”
+  }
+}
